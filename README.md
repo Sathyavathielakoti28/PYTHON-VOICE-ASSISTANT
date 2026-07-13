@@ -29,21 +29,6 @@ This project was developed to practice Python programming, speech recognition, t
 
 ---
 
-## 📂 Project Structure
-
-```
-voice-assistant/
-│── assistant.py        # Main file to run the assistant
-│── commands.py         # Processes voice commands
-│── listen.py           # Speech Recognition
-│── speak.py            # Text-to-Speech
-│── gemini.py           # Gemini AI integration
-│── requirements.txt    # Required Python packages
-│── README.md
-```
-
----
-
 ## ⚙️ Installation
 
 ### 1. Clone the repository
